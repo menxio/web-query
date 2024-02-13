@@ -1,0 +1,187 @@
+body {
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Courier';
+    background-color:#f8fbca;
+    color: #FF9494;
+}
+
+/* ASKING PAGE */
+
+#valentineQuestion {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.answerButton {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 10px;
+    font-family: 'courier';
+    margin-bottom: 20px;
+    background-color:#FF9494;
+    color: #f8fbca;
+    border-radius: 12px;
+    border: 2px solid #fee6e6;
+}
+
+
+/* THANK YOU PAGE */
+
+#thankyou {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.rizz {
+    margin-bottom: 10 px;
+}
+.button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 10px;
+    font-family: 'courier';
+    margin-bottom: 20px;
+    background-color:#FF9494;
+    color: #f8fbca;
+    border-radius: 12px;
+    border: 2px solid #FF9494;
+}
+
+/* DATE PICKER */
+
+#datePicker h1 {
+    font-size: 40px;
+}
+
+#datePicker .form-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#datePicker .button {
+    padding: 6px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 10px;
+    font-family: 'courier';
+    margin-bottom: 10px;
+    background-color:#FF9494;
+    color: #f8fbca;
+    border-radius: 12px;
+    border: 2px solid #FF9494;
+}
+
+/* FOOD PICKER */
+
+#foodPicker #foodquestion {
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+#foodPicker .food-item {
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+    color: #FF9494;
+}
+
+#foodPicker .food-item img {
+    width: 220px; 
+    height: auto;
+}    
+
+#foodPicker .food-item label {
+    display: block;
+}
+
+#foodPicker .button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 10px;
+    font-family: 'courier';
+    margin-bottom: 20px;
+    background-color:#FF9494;
+    color: #f8fbca;
+    border-radius: 12px;
+    border: 2px solid #FF9494;
+}
+
+/* DESSERT PICKER */
+
+#dessertPicker #dessertquestion {
+    font-size: 50px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+#dessertPicker .dessert-item {
+    display: inline-table;
+    margin: 10px;
+    vertical-align: top;
+    color: #FF9494;
+}
+
+#dessertPicker .dessert-item img {
+    width: 220px; 
+    height: auto;
+    padding: 10px;
+}
+
+#dessertPicker .dessert-item label {
+    display: block;
+}
+
+#dessertPicker .button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 10px;
+    font-family: 'courier';
+    margin-bottom: 20px;
+    background-color:#FFE3E1;
+    color: #e67373;
+    border-radius: 12px;
+    border: 2px solid #FFE3E1;
+}
+
+/* ACTIVITY PICKER */
+
+#activityPicker #activityquestion {
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+#activityPicker .activity-item {
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+    color: #FF9494;
+}
+
+#activityPicker .activity-item img {
+    width: 220px; 
+    height: auto;
+    padding: 10px;
+}
+
+#activityPicker .activity-item label {
+    display: block;
+}
+
+#activityPicker .button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 10px;
+    font-family: 'courier';
+    margin-bottom: 20px;
+    background-color:#FFE3E1;
+    color: #e67373;
+    border-radius: 12px;
+    border: 2px solid #FFE3E1;
+}
